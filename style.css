@@ -555,7 +555,7 @@ a {
    position:absolute;
    top:390%;
    left:38%;
-   height:35%;
+   height:32%;
    
 }
 
@@ -569,12 +569,12 @@ a {
   position:absolute;
   top:390%;
   left:10%;
-  height:100%;
+  height:32%;
 
 }
 .insta2 .instagram-media{
 
-  height:70%;
+  height:200%;
   width:10px;
 
 }
@@ -582,27 +582,104 @@ a {
   position:absolute;
   top:390%;
   left:66%;
-  height:35%;
+  height:32%;
 }
 .insta3 .instagram-media{
  height:200%;
  width:10px;
 
 }
-.insta3 iframe{
+.insta4{
   position:absolute;
-  display:flex;
-  height:auto;
+  top:480%;
+  left:10%;
+  height:32%;
   
 }
 
+.insta4 .instagram-media{
+
+ height:200%;
+ width:5px;
+
+}
+.insta5{
+  position:absolute;
+  top:480%;
+  left:38%;
+  height:32%;
+  
+}
+
+.insta5 .instagram-media{
+
+ height:200%;
+ width:10px;
+
+}
+.insta6{
+  position:absolute;
+  top:480%;
+  left:66%;
+  height:32%;
+  
+}
+
+.insta6 .instagram-media{
+
+ height:200%;
+ width:10px;
+
+}
+.insta7{
+  position:absolute;
+  top:570%;
+  left:10%;
+  height:32%;
+  
+}
+
+.insta7 .instagram-media{
+
+ height:200%;
+ width:10px;
+
+}
+.insta8{
+  position:absolute;
+  top:570%;
+  left:38%;
+  height:32%;
+  
+}
+
+.insta8 .instagram-media{
+
+ height:200%;
+ width:10px;
+
+}
+.insta9{
+  position:absolute;
+  top:570%;
+  left:66%;
+  height:32%;
+  
+}
+
+.insta9 .instagram-media{
+
+ height:200%;
+ width:10px;
+
+}
 .background6{
   background-color: #f7a711;
   height:60px;
   width:70px;
   left:90%;
   position:absolute;
-  top:355%;
+  top:655%;
   filter:blur(80px);
   backdrop-filter: blur(90px);
 
@@ -613,7 +690,7 @@ a {
   width:70px;
   left:3%;
   position:absolute;
-  top:400%;
+  top:650%;
   filter:blur(80px);
   backdrop-filter: blur(60px);
 
@@ -624,7 +701,7 @@ a {
   width:70px;
   left:95%;
   position:absolute;
-  top:420%;
+  top:680%;
   filter:blur(80px);
   backdrop-filter: blur(80px);
 
@@ -632,7 +709,7 @@ a {
 
  .contact{
   position:absolute;
-  top:490%;
+  top:670%;
   left:45%;
   font-size:30px;
   font-weight:500;
@@ -651,7 +728,7 @@ a {
 .line5{
   position:absolute;
   left: 20%;
-  top:500%;
+  top:680%;
 }
 
 
@@ -681,7 +758,7 @@ a {
   font-family: 'Ubuntu Mono', monospace;
   font-size: 25px;
   padding:10px 0px 20px 0px;
-  top:510%;
+  top:690%;
   left:20%;
 }
 .contact-content p{
@@ -694,7 +771,7 @@ a {
 .line6{
   position:absolute;
   left: 20%;
-  top:550%;
+  top:730%;
 }
 
 
@@ -721,12 +798,12 @@ a {
 }
 
 .background9{
-  background-color: #03ec22e8;
+  background-color: #03ecc5e8;
   height:70px;
   width:70px;
   left:10%;
   position:absolute;
-  top:530%;
+  top:700%;
   filter:blur(80px);
   backdrop-filter: blur(80px);
 
@@ -737,7 +814,7 @@ a {
   width:70px;
   left:85%;
   position:absolute;
-  top:510%;
+  top:750%;
   filter:blur(80px);
   backdrop-filter: blur(80px);
 
@@ -745,7 +822,7 @@ a {
 
  .middle {
   position: absolute;
-  top: 580%;
+  top: 760%;
   transform: translateY(-50%);
   width: 100%;
   text-align: center;
@@ -1028,15 +1105,111 @@ a {
  width:10px;
 
 }
-.insta3 iframe{
+.insta4{
   position:absolute;
-  display:flex;
-  height:auto;
+  top:555%;
+  left:50%;
+  height:29%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   
+}
+
+.insta4 .instagram-media{
+
+ height:200%;
+ width:10px;
+
+}
+.insta5{
+  position:absolute;
+  top:615%;
+  left:50%;
+  height:17%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.insta5 .instagram-media{
+
+ height:200%;
+ width:10px;
+
+}
+.insta6{
+  position:absolute;
+  top:658%;
+  left:50%;
+  height:19%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.insta6 .instagram-media{
+
+ height:200%;
+ width:10px;
+
+}
+.insta7{
+  position:absolute;
+  top:705%;
+  left:50%;
+  height:19%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.insta7 .instagram-media{
+
+ height:200%;
+ width:10px;
+
+}
+.insta8{
+  position:absolute;
+  top:757%;
+  left:50%;
+  height:29%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.insta8 .instagram-media{
+
+ height:200%;
+ width:10px;
+
+}
+.insta9{
+  position:absolute;
+  top:820%;
+  left:50%;
+  height:22%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.insta9 .instagram-media{
+
+ height:200%;
+ width:10px;
+
 }
 .contact{
   position:absolute;
-  top:570%;
+  top:870%;
   left:30%;
 }
 .line5{
@@ -1045,14 +1218,14 @@ a {
     display:flex;
     justify-content: center;
     align-items:center;
-  top:580%;
+  top:878%;
  }
  #neon5{
   width: 325px;
  }
  .contact-content{
     position:absolute;
-    top:590%;
+    top:885%;
     left:10%;
     font-size:15px;
 
@@ -1063,14 +1236,14 @@ a {
     display:flex;
     justify-content: center;
     align-items:center;
-  top:620%;
+  top:913%;
  }
  #neon6{
   width: 325px;
  }
  .middle{
   position:absolute;
-  top:650%;
+  top: 950%;
   width: 100%;
 
  }
